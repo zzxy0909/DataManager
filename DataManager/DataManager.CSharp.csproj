@@ -16,7 +16,7 @@
     <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>Android:13</UnityBuildTarget>
-    <UnityVersion>5.5.2f1</UnityVersion>
+    <UnityVersion>5.6.3f1</UnityVersion>
     <RootNamespace></RootNamespace>
     <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
   </PropertyGroup>
@@ -27,7 +27,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_2;UNITY_5_5;UNITY_5;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VIDEO;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_3;UNITY_5_6;UNITY_5;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_HAS_GOOGLEVR</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -37,7 +37,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_2;UNITY_5_5;UNITY_5;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VIDEO;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_3;UNITY_5_6;UNITY_5;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_HAS_GOOGLEVR</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
@@ -58,8 +58,11 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.PlaymodeTestsRunner">
-      <HintPath>Library\UnityAssemblies\UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
@@ -73,29 +76,165 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="ES2">
+      <HintPath>Assets\Plugins\ES2.dll</HintPath>
+    </Reference>
+    <Reference Include="MoodkieSecurity">
+      <HintPath>Assets\Plugins\MoodkieSecurity.dll</HintPath>
+    </Reference>
+    <Reference Include="SaveIsEasyDLL">
+      <HintPath>Assets\Save is easy\SaveIsEasyDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="SaveIsEasyEditorDLL">
+      <HintPath>Assets\Save is easy\SaveIsEasyEditorDLL.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\BalanceData.cs" />
     <Compile Include="Assets\00. Project_Root\03. Scripts\Data\DataManager.cs" />
     <Compile Include="Assets\00. Project_Root\03. Scripts\Data\MonoDataManager.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlBalance_level_info.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlBalance_stage_spawn.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlBalance_style_info.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlBalance_unit.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlBalance_upgrade_info.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlBalance_zoneobject_point.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlDataShare01_active_zonedata.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlSavePlayerData.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlSavedata_info.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlSavedata_player_stage.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlSavedata_player_weapon.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlSavedata_unit_inven.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlSavedata_upgrade.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\SqlSavedata_zonedata.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\Sql_bt_drink_info.cs" />
-    <Compile Include="Assets\00. Project_Root\03. Scripts\Data\sql\Sql_bt_drink_material.cs" />
+    <Compile Include="Assets\00. Project_Root\03. Scripts\test_gde.cs" />
     <Compile Include="Assets\00. Project_Root\03. Scripts\util\MonoSingleton.cs" />
     <Compile Include="Assets\Boomlagoon\JSON\JSONObject.cs" />
     <Compile Include="Assets\Boomlagoon\JSON\TestScene\JSONObjectTester.cs" />
+    <Compile Include="Assets\Easy Save 2\ES2Init.cs" />
+    <Compile Include="Assets\Easy Save 2\Examples\Creating an Automatic Save Structure\ES2UniqueID.cs" />
+    <Compile Include="Assets\Easy Save 2\Examples\Creating an Automatic Save Structure\UniqueGameLogic.cs" />
+    <Compile Include="Assets\Easy Save 2\Examples\Creating an Automatic Save Structure\UniqueObjectManager.cs" />
+    <Compile Include="Assets\Easy Save 2\Examples\Creating an Automatic Save Structure\UniqueSaveManager.cs" />
+    <Compile Include="Assets\Easy Save 2\Examples\Save and Load Prefabs Instantiated at Runtime\PrefabManager.cs" />
+    <Compile Include="Assets\Easy Save 2\Examples\Shared Assets\Scripts\MyExampleScript.cs" />
+    <Compile Include="Assets\Easy Save 2\Examples\Upload and Download a Texture\UploadDownloadTexture.cs" />
+    <Compile Include="Assets\Easy Save 2\Types\ES2_AudioClip.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEDataManager.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEDataManager_NonWebPlayers.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEDataManager_WebPlayer.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEExtensions.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEPPX_Convert.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEPPX_Get.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEPPX_Misc.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDEPPX_Set.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDESerializable.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\GDMConstants.cs" />
+    <Compile Include="Assets\GameDataEditor\APIScripts\MiniJSON.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\GDEItemKeys_gde_data.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\GDESConfigData.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\GDESDebugData.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\GDESchemaKeys_gde_data.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\GDETest2SchemaData.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\GDETestSchemaData.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\GDEuser_infoData.cs" />
+    <Compile Include="Assets\GameDataEditor\CustomExtensions\IGDEData.cs" />
+    <Compile Include="Assets\GameDataEditor\Encryption\GDECrypto.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEActionBase.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetAudioClip.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetBool.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetColor.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomAudioClip.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomBool.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomColor.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomGameObject.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomInt.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomMaterial.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomString.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomTexture2D.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetCustomVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetGameObject.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetInt.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetMaterial.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetString.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetTexture2D.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEGetVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEManagerInit.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEResetAll.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEResetCustomField.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDEResetField.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESaveAll.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetBool.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetColor.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustom.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustomBool.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustomColor.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustomFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustomInt.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustomString.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustomVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetCustomVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetInt.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetString.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\ICode\GDESetVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEActionBase.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetAudioClip.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetBool.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetColor.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomAudioClip.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomBool.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomColor.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomGameObject.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomInt.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomMaterial.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomString.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomTexture2D.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetCustomVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetGameObject.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetInt.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetMaterial.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetString.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetTexture2D.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEGetVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEManagerInit.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEResetAll.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEResetCustomField.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDEResetField.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESaveAll.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetBool.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetColor.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustom.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustomBool.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustomColor.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustomFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustomInt.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustomString.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustomVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetCustomVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetFloat.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetInt.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetString.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetVector2.cs" />
+    <Compile Include="Assets\GameDataEditor\Playmaker\GDESetVector3.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDE2DListScene\GDE2DListItemKeys.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDE2DListScene\GDE2DListScene.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDE2DListScene\GDE2DListSceneStrings.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDE2DListScene\GDETwoDListCustomData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDE2DListScene\GDETwoDListData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\GDEPlaySound.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\GDEReadSceneCustomData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\GDEReadSceneData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\GDEReadSceneItemKeys.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\GDEReadSceneUnityTypesData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\GDERotateGODemo.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\ReadDataScene.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDEReadDataScene\ReadDataSceneStrings.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\GDESetCustomData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\GDESetListData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\GDESetSceneItemKeys.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\GDESetSingleData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\GDESetTwoDListData.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\SetDataScene.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\SetDataSceneBase.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\GDESetDataScene\SetDataSceneStrings.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\PlaymakerSetDataTestScene\SetDataPlaymaker.cs" />
+    <Compile Include="Assets\GameDataEditor\SampleScenes\PlaymakerSetDataTestScene\SetDataPlaymakerStrings.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
@@ -236,6 +375,15 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+    <Compile Include="Assets\Save is easy\Examples\Example 1\exampleCube.cs" />
+    <Compile Include="Assets\Save is easy\Examples\Example 1\exampleCubeControl.cs" />
+    <Compile Include="Assets\Save is easy\Examples\Example 2\TestSerializableObject.cs" />
+    <Compile Include="Assets\Save is easy\Examples\Example 2\example2CubeControl.cs" />
+    <Compile Include="Assets\Save is easy\Examples\Example 2\example2CubeMove.cs" />
+    <Compile Include="Assets\SerializableDic\Scripts\DebugUtils.cs" />
+    <Compile Include="Assets\SerializableDic\SerializableDictionary\Example\SerializableDictionaryExample.cs" />
+    <Compile Include="Assets\SerializableDic\SerializableDictionary\Example\UserSerializableDictionaries.cs" />
+    <Compile Include="Assets\SerializableDic\SerializableDictionary\SerializableDictionary.cs" />
     <Compile Include="Assets\sqlitekit\DemoObject.cs" />
     <Compile Include="Assets\sqlitekit\DemoObject2.cs" />
     <Compile Include="Assets\sqlitekit\SQLiteAsync.cs" />
@@ -333,6 +481,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Boomlagoon\JSON\Readme.txt" />
+    <None Include="Assets\Easy Save 2\changelog.txt" />
+    <None Include="Assets\Easy Save 2\readme.txt" />
+    <None Include="Assets\GameDataEditor\Resources\gde_data 1.txt" />
+    <None Include="Assets\GameDataEditor\Resources\gde_data.txt" />
+    <None Include="Assets\GameDataEditor\SampleScenes\PlaymakerReadTestScene\Resources\playmaker_readtest_data.txt" />
+    <None Include="Assets\GameDataEditor\SampleScenes\PlaymakerSetDataTestScene\README.txt" />
+    <None Include="Assets\GameDataEditor\SampleScenes\PlaymakerSetDataTestScene\Resources\playmaker_set_data.txt" />
     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
@@ -374,6 +529,7 @@
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+    <None Include="Assets\link.xml" />
     <None Include="Assets\sqlitekit\Readme.txt" />
     <None Include="Assets\sqlitekit\license.txt" />
   </ItemGroup>

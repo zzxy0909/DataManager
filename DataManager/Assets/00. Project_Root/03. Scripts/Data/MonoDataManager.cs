@@ -100,9 +100,9 @@ public class MonoDataManager : MonoBehaviour {
                 _objWaitPopup.transform.localScale = new Vector3(1f, 1f, 1f);
                 _objWaitPopup.transform.localPosition = new Vector3(0f, 0f, -100f);
 
-                _DownloadRatio_1 = _objWaitPopup.transform.FindChild("Label_Message1");
-                _DownloadRatio_2 = _objWaitPopup.transform.FindChild("Label_Message2");
-                _DownloadRatio_3 = _objWaitPopup.transform.FindChild("Label_Message3");
+                _DownloadRatio_1 = _objWaitPopup.transform.Find("Label_Message1");
+                _DownloadRatio_2 = _objWaitPopup.transform.Find("Label_Message2");
+                _DownloadRatio_3 = _objWaitPopup.transform.Find("Label_Message3");
             }
             else
             {
